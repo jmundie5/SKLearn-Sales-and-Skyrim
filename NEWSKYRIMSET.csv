@@ -1,0 +1,971 @@
+Name,Race,Gender,Level (PC=10),Health (PC=10),Magicka (PC=10),Stamina (PC=10)
+Beitild,Nord,Female,6,91,67,67
+Brina Merilis,Nord,Female,10,155.3,50,79.7
+Horik Halfhand,Nord,Male,10,155.3,50,79.7
+Babette,Breton,Female,10,125,15,95
+Cicero,Imperial,Male,15,412.5,102.5,207.5
+Dark Brotherhood Initiate,Nord,Male,10,550,140,320
+Nazir,Redguard,Male,10,224.7,65.3,95
+Fruki,Nord,Female,6,91,67,67
+Irgnir,Nord,Female,6,91,67,67
+Bodil,Nord,Female,6,91,67,67
+Gjak,Nord,Male,6,91,67,67
+Karl,Nord,Male,6,91,67,67
+Leigelf,Nord,Male,6,91,67,67
+Frida,Elder,Female,6,91,67,67
+Alesan,Redguard,Male,1,50,0,50
+Harlaug,Nord,Male,6,108,50,67
+Rustleif,Nord,Male,6,95,60,70
+Seren,Redguard,Female,6,95,60,70
+Silus Vesuius,Imperial,Male,20,103.94,93.5,50
+Captain Wayfinder,Nord,Male,4,80,50,65
+Guthrum,Nord,Male,4,80,50,65
+Ravam Verethi,Dark Elf,Male,4,80,50,65
+Bulfrek,Nord,Male,6,91,67,67
+Frorkmar Banner-Torn,Nord,Male,2.5,62,50,60.8
+Gregor,Nord,Male,10,438,50,147
+Skald,Elder,Male,10,155.3,50,79.7
+Jod,Nord,Male,10,155.3,50,79.7
+Madena,Breton,Female,15,167,143,50
+Abelone,Nord,Female,4,75,60,60
+Alding,Nord,Male,1,50,50,50
+Erandur,Dark Elf,Male,15,325,50,230
+Gjuk,Nord,Male,1,50,50,50
+Irlof,Nord,Male,1,50,50,50
+Karita,Nord,Female,6,89,72,64
+Stig Salt-Plank,Nord,Male,1,50,50,50
+Thoring,Nord,Male,6,91,67,67
+Borgny,Nord,Male,6,91,67,67
+Edith,Nord,Female,6,91,67,67
+Fenrik,Nord,Male,10,140,65.3,79.7
+Harald,Nord,Male,6,91,67,67
+Lond,Nord,Male,6,91,67,67
+Indara Caerellia,Imperial,Female,4,85,50,60
+Mathies,Nord,Male,4,75,60,60
+Arcturus,Imperial,Male,12,166.5,86.5,87
+Arnbjorn,Nord,Male,10,224.7,65.3,145
+Astrid,Nord,Female,10,324.7,65.3,295
+Festus Krex,Elder,Male,10,174.7,310.3,50
+Gabriella,Dark Elf,Female,10,224.7,90.3,95
+Veezara,Argonian,Male,10,424.7,65.3,95
+Delacourt,Breton,Male,4,80,50,65
+Narri,Nord,Female,4,75,60,60
+Valdr,Nord,Male,10,149,50,86
+Valga Vinicia,Imperial,Female,4,75,60,60
+Dengeir of Stuhn,Nord,Male,4,85,50,60
+Tekla,Nord,Female,4,75,60,60
+Thadgeir,Nord,Male,4,85,50,60
+Sinding,Nord,Male,1,50,50,50
+Zaria,Redguard,Female,5,50,50,50
+Bolund,Nord,Male,4,85,50,60
+Solaf,Nord,Male,4,75,60,60
+Kust,Nord,Male,4,75,60,60
+Runil,High Elf,Male,4,75,50,70
+Helvard,Nord,Male,4,85,50,60
+Siddgeir,Nord,Male,4,75,60,60
+Legate Skulnar,Nord,Male,2.5,62,50,60.8
+Nenya,High Elf,Female,4,75,70,50
+Rayya,Redguard,Female,10,438,50,147
+Lod,Nord,Male,4,77,56,62
+Imedhnain,Breton,Male,6,50,50,50
+Lisbet,Nord,Female,6,50,50,50
+Captain Aquilius,Redguard,Male,13,262,25,158
+Borkul the Beast,Orc,Male,10,205.3,79.7,50
+Braig,Breton,Male,10,140,95,50
+Duach,Breton,Male,5,65,70,50
+Grisvar the Unlucky,Nord,Male,6,47,50,83
+Madanach,Breton,Male,10,140,95,50
+Odvan,Breton,Male,10,140,95,50
+Uraccen,Breton,Male,10,140,95,50
+Adara,Redguard,Female,4,65,0,80
+Endon,Redguard,Male,6,91,67,67
+Kerah,Redguard,Female,6,50,50,50
+Bothela,Breton,Female,6,91,67,67
+Muiri,Breton,Female,6,50,50,50
+Brother Verulus,Imperial,Male,6,92,50,83
+Eola,Breton,Female,10,124.7,79.7,79.7
+Daighre,Breton,Female,6,91,67,67
+Erith,Breton,Female,1,50,0,50
+Torom,Animals,Indeterminate,2,21,0,24
+Adeber,Breton,Male,6,91,67,67
+Ennoc,Breton,Male,6,91,67,67
+Willem,Breton,Male,6,91,67,67
+Gat gro-Shargakh,Orc,Male,6,91,67,67
+Pavo Attius,Imperial,Male,6,91,67,67
+Skaggi Scar-Face,Nord,Male,6,91,67,67
+Sosia Tremellia,Imperial,Female,6,91,67,67
+Kaie,Breton,Female,10,124.7,79.7,79.7
+Banning,Breton,Male,6,100,50,75
+Cedran,Breton,Male,6,89,72,64
+Kibell,Nord,Male,6,108,50,67
+Vigilance,Animals,Indeterminate,10,100,0,65
+Morven,Breton,Male,6,140,95,50
+Nepos the Nose,Elder,Male,10,124.7,79.7,79.7
+Tynan,Breton,Male,6,140,95,50
+Uaile,Breton,Female,10,140,95,50
+Ogmund,Nord,Male,10,121.10000000000001,88.69999999999999,76.1
+Weylin,Breton,Male,3,70,60,50
+Rogatus Salvius,Elder,Male,6,91,67,67
+Vigdis Salvius,Elder,Female,6,91,67,67
+Frabbi,Nord,Female,6,91,67,67
+Hogni Red-Arm,Nord,Male,6,91,67,67
+Hreinn,Nord,Male,6,50,50,50
+Hroki,Nord,Female,6,50,50,50
+Kleppr,Nord,Male,6,91,67,67
+Margret,Nord,Female,6,91,67,67
+Vigilant Tyranus,Imperial,Male,10,140,95,50
+Vorstag,Nord,Male,10,205.3,50,79.7
+Mulush gro-Shugurz,Orc,Male,6,50,50,50
+Urzoga gra-Shugurz,Orc,Female,20,178.79999999999998,86.8,50
+Anwen,Redguard,Female,6,92,100,83
+Fjotra,Nord,Female,4,65,0,80
+Hamal,Nord,Female,10,124.7,50,110.30000000000001
+Orla,Nord,Female,6,92,100,83
+Senna,Breton,Female,6,92,50,83
+Betrid Silver-Blood,Nord,Female,4,27,60,60
+Donnel,Elder,Male,6,140,95,50
+Nana Ildene,Breton,Female,10,140,95,50
+Reburrus Quintilius,Imperial,Male,6,50,50,50
+Rhiada,Breton,Female,6,91,67,67
+Thonar Silver-Blood,Nord,Male,6,108,50,67
+Thongvor Silver-Blood,Nord,Male,10,155.3,50,79.7
+Yngvar the Singer,Nord,Male,10,155.3,50,79.7
+Aicantar,High Elf,Male,5,83.6,151.4,50
+Anton Virane,Breton,Male,6,50,67,67
+Calcelmo,High Elf,Male,10,124.7,110.30000000000001,50
+Faleen,Redguard,Female,10,155.3,50,79.7
+Ghorza gra-Bagol,Orc,Female,6,50,50,50
+Igmund,Nord,Male,10,155.3,50,79.7
+Legate Emmanuel Admand,Breton,Male,2.5,62,50,60.8
+Moth gro-Bagol,Orc,Male,6,50,50,50
+Ondolemar,High Elf,Male,10,124.7,110.30000000000001,50
+Raerek,Elder,Male,6,50,50,50
+Rondach,Breton,Male,6,50,50,50
+Tacitus Sallustius,Imperial,Male,6,95,60,70
+Thalmor,High Elf,Male,20,346,88,126
+Voada,Breton,Female,6,50,50,50
+Argis the Bulwark,Nord,Male,10,205.3,50,79.7
+Cairine,Breton,Female,4,75,60,60
+Cosnach,Breton,Male,10,155.3,50,79.7
+Degaine,Breton,Male,4,75,60,60
+Dryston,Breton,Male,10,155.3,50,79.7
+Eltrys,Breton,Male,6,91,67,67
+Garvey,Breton,Male,10,124.7,79.7,79.7
+Hathrasil,Breton,Male,6,50,50,50
+Omluag,Breton,Male,6,50,50,50
+Alva,Nord,Female,10,281,186,118
+Hroggar,Nord,Male,7,100,70,70
+Agni,Nord,Female,4,65,0,80
+Falion,Redguard,Male,15,167,143,50
+Benor,Nord,Male,10,155.3,50,79.7
+Aslfur,Nord,Male,6,100,50,75
+Gorm,Nord,Male,4,85,50,60
+Idgrod Ravencrone,Elder,Female,4,75,65,55
+Idgrod the Younger,Nord,Female,4,75,65,55
+Joric,Nord,Male,4,65,0,80
+Legate Taurinus Duilis,Imperial,Male,2.5,62,50,60.8
+Valdimar,Nord,Male,10,341.5,246.5,197
+Jorgen,Nord,Male,10,125,60,50
+Lami,Nord,Female,3,41,57,57
+Jonna,Redguard,Female,4,77,56,62
+Lurbuk,Orc,Male,4,73,63,59
+Thonnir,Nord,Male,3,41,57,57
+Virkmund,Nord,Male,4,65,0,80
+Bralsa Drel,Dark Elf,Female,10,125,80,80
+Rirns Llervu,Dark Elf,Male,10,125,80,80
+Dreyla Alor,Dark Elf,Female,10,125,80,80
+Fethis Alor,Dark Elf,Male,10,125,80,80
+Captain Veleth,Dark Elf,Male,25,625.5,50,247
+Aphia Velothi,Dark Elf,Female,10,125,50,110
+Crescius Caerellius,Elder,Male,10,125,80,80
+Glover Mallory,Breton,Male,20,342,50,243
+Garyn Ienth,Dark Elf,Male,10,125,80,80
+Milore Ienth,Dark Elf,Female,10,125,80,80
+Adril Arano,Dark Elf,Male,15,238,50,97
+Cindiri Arano,Dark Elf,Female,10,125,80,80
+Lleril Morvayn,Dark Elf,Male,25,380,50,130
+Evul Seloth,Dark Elf,Male,10,50,50,50
+Meden Maren,Dark Elf,Male,10,50,50,50
+Naris Mavani,Dark Elf,Male,10,50,50,50
+Tolenos Omoren,Dark Elf,Male,10,50,50,50
+Drovas Relvi,Dark Elf,Male,10,125,80,80
+Geldis Sadri,Dark Elf,Male,10,125,80,80
+Mogrul,Orc,Male,30,488,50,247
+Slitter,Dark Elf,Male,13,262,25,158
+Teldryn Sero,Dark Elf,Male,10,408,238.5,163.5
+Mirri Severin,Dark Elf,Female,25,526.5,50,196
+Tilisu Severin,Dark Elf,Female,25,556.5,50,216
+Vendil Severin,Dark Elf,Male,25,606.5,50,216
+Elder Othreloth,Dark Elf,Male,15,167,198,50
+Galdrus Hlervu,Dark Elf,Male,10,125,160,50
+Aerin,Imperial,Male,6,108,50,67
+Mjoll the Lioness,Nord,Female,12.5,259.32,50,88.64
+Keerava,Argonian,Female,10,125,80,80
+Louis Letrush,Breton,Male,10,121.10000000000001,88.69999999999999,76.1
+Marcurio,Imperial,Male,10,174.7,210.3,50
+Talen-Jei,Argonian,Male,8,108,73,74
+Edda,Imperial,Female,4,75,60,60
+Madesi,Argonian,Male,8,108,73,74
+Snilf,Nord,Male,4,75,60,60
+Hemming Black-Briar,Nord,Male,10,155,50,80
+Ingun Black-Briar,Nord,Female,12,142,68,105
+Maul,Nord,Male,15,167,50,143
+Maven Black-Briar,Nord,Female,10,124.7,79.7,79.7
+Indaryn,Dark Elf,Male,8,131,50,74
+Bolli,Nord,Male,8,108,73,74
+Nivenor,Wood Elf,Female,7,100,70,70
+Elgrim,Elder,Male,10,125,80,80
+Hafjorg,Elder,Female,6,91,67,67
+Brand-Shei,Dark Elf,Male,8,108,73,74
+From-Deepest-Fathoms,Argonian,Female,7,124.7,79.7,79.7
+Grelka,Nord,Female,10,131,86,68
+Haelga,Nord,Female,8,108,73,74
+Niluva Hlaalu,Dark Elf,Female,6,91,67,67
+Svana Far-Shield,Nord,Female,6,91,67,67
+Tythis Ulen,Dark Elf,Male,6,91,67,67
+Ungrien,Wood Elf,Male,8,108,73,74
+Wujeeta,Argonian,Female,6,91,67,67
+Alessandra,Imperial,Female,10,125,50,110
+Iona,Nord,Female,10,205.3,50,79.7
+Constance Michel,Imperial,Female,4,30,60,60
+Francois Beaufort,Imperial,Male,1,50,0,50
+Grelod the Kind,Elder,Female,1,1,50,50
+Hroar,Nord,Male,4,50,0,50
+Runa Fair-Shield,Nord,Female,4,65,0,80
+Samuel,Imperial,Male,1,50,0,50
+Marise Aravel,Dark Elf,Female,8,108,73,74
+Dravin Llanith,Dark Elf,Male,6,91,67,67
+Synda Llanith,Dark Elf,Female,6,91,67,67
+Anuriel,Wood Elf,Female,4,75,60,60
+Harrald,Nord,Male,10,155,50,80
+Laila Law-Giver,Nord,Female,10,125,80,80
+Saerlund,Nord,Male,8,108,73,74
+Unmid Snow-Shod,Nord,Male,4,85,50,60
+Wylandriah,Wood Elf,Female,15,167,143,50
+Shavari,Khajiit,Female,10,124.7,110.30000000000001,50
+Bersi Honey-Hand,Nord,Male,8,109,50,96
+Drifa,Nord,Female,6,91,67,67
+Brynjolf,Nord,Male,10,199.7,50,160.3
+Delvin Mallory,Breton,Male,10,199.7,50,110.30000000000001
+Dirge,Imperial,Male,15,166,97,97
+Galathil,Wood Elf,Female,10,124.7,79.7,79.7
+Sapphire,Nord,Female,15,166.25,50,143
+Tonilia,Redguard,Female,15,166.25,96.5,96.5
+Vekel the Man,Nord,Male,10,124.7,79.7,79.7
+Vex,Imperial,Female,10,199.7,50,110.30000000000001
+Drahff,Nord,Male,6,94,50,91
+Esbern,Elder,Male,10,103.94,193.5,50
+Gian the Fist,Imperial,Male,8,168.5,50,96.5
+Hefid the Deaf,Nord,Female,3,50,50,50
+Hewnon Black-Skeever,Nord,Male,8,126.56,50,121.75
+Knjakr,Elder,Male,5,96.4,50,63.6
+Salvianus,Imperial,Male,8,131.84000000000003,50,73.76
+Snippy,Animals,Indeterminate,1,5,4,25
+Swims-In-Deep-Water,Argonian,Male,8,108,73,74
+Viriya,Redguard,Female,16,300,75,120
+Molgrom Twice-Killed,Nord,Male,6,92,50,83
+Sibbi Black-Briar,Nord,Male,10,125,50,110
+Threki the Innocent,Nord,Female,6,92,50,83
+Hofgrir Horse-Crusher,Nord,Male,8,131,50,74
+Shadr,Redguard,Male,4,75,60,60
+Sigaar,Nord,Male,6,108,50,67
+Orini Dral,Dark Elf,Male,13,262,25,158
+Sarthis Idren,Dark Elf,Male,17,326,32.5,176.5
+Romlyn Dreth,Dark Elf,Male,10,125,50,110
+Asbjorn Fire-Tamer,Nord,Male,6,95,60,70
+Balimund,Nord,Male,8,113,78,64
+Addvild,Nord,Male,6,91,67,67
+Leonara Arius,Imperial,Female,6,91,67,67
+Asgeir Snow-Shod,Nord,Male,8,131,50,74
+Nura Snow-Shod,Nord,Female,10,125,50,110
+Vulwulf Snow-Shod,Nord,Male,10,155.3,50,79.7
+Briehl,Nord,Male,4,85,50,60
+Dinya Balu,Dark Elf,Female,8,108,50,97
+Maramal,Redguard,Male,12,142,50,123
+Arnskar Ember-Master,Nord,Male,10,131,68,86
+Cynric Endell,Breton,Male,10,124.7,50,110.30000000000001
+Etienne Rarnis,Breton,Male,10,140,50,95
+Garthar,Nord,Male,10,124.7,50,110.30000000000001
+Herluin Lothaire,Breton,Male,20,124.7,79.7,79.7
+Mercer Frey,Breton,Male,12,360.4,50,155.2
+Niruin,Wood Elf,Male,10,124.7,50,110.30000000000001
+Ravyn Imyan,Dark Elf,Male,10,124.7,50,110.30000000000001
+Rune,Imperial,Male,10,124.7,50,110.30000000000001
+Syndus,Wood Elf,Male,10,117,95,73
+Thrynn,Nord,Male,10,124.7,50,110.30000000000001
+Vanryth Gatharian,Dark Elf,Male,10,131,68,86
+Vipir the Fleet,Nord,Male,10,124.7,50,110.30000000000001
+Valindor,Wood Elf,Male,10,155,50,80
+Addvar,Nord,Male,6,91,67,67
+Greta,Nord,Female,4,75,60,60
+Svari,Nord,Female,1,50,0,50
+Angeline Morrard,Breton,Female,6,91,67,67
+Vivienne Onis,Breton,Female,4,75,60,60
+Aia Arria,Imperial,Female,6,89,72,64
+Ataf,Redguard,Male,6,89,72,64
+Bendt,Elder,Male,4,75,60,60
+Giraud Gemane,Breton,Male,4,75,50,70
+Illdi,Nord,Female,4,73,63,59
+Inge Six Fingers,Elder,Female,4,73,63,59
+Jorn,Nord,Male,4,73,63,59
+Pantea Ateia,Imperial,Female,4,73,63,59
+Viarmo,High Elf,Male,4,73,63,59
+Kayd,Redguard,Male,1,50,0,50
+Sayma,Redguard,Female,4,75,60,60
+Bolgeir Bearclaw,Nord,Male,18,248,50,107
+Elisif the Fair,Nord,Female,10,125,80,80
+Erdi,Nord,Female,6,91,67,67
+Falk Firebeard,Nord,Male,12,178,50,87
+Odar,Nord,Male,4,75,60,60
+Sybille Stentor,Breton,Female,15,167,143,50
+Una,Nord,Female,4,75,60,60
+Bryling,Nord,Female,9,143,50,77
+Irnskar Ironhand,Nord,Male,4,85,50,60
+Captain Aldis,Nord,Male,10,122,50,113
+Emperor Titus Mede II,Imperial,Male,1,1,50,50
+General Tullius,Imperial,Male,12,138.32,50,127.28
+Gianna,Imperial,Female,4,75,60,60
+Legate Adventus Caesennius,Imperial,Male,2.5,62,50,60.8
+Legate Rikke,Nord,Female,10,622,50,113
+Bjartur,Nord,Female,10,125,80,80
+East Empire Dockmaster,Imperial,Male,1,50,50,50
+East Empire Warden,Radiant,Radiant,13,262,25,158
+Snorreid,Nord,Male,4,85,50,60
+Erikur,Nord,Male,7,120,50,70
+Gisli,Nord,Female,4,80,50,65
+Melaran,High Elf,Male,15,167,143,50
+Evette San,Nord,Female,6,91,67,67
+Octieve San,Breton,Male,4,75,60,60
+Fihada,Redguard,Male,6,87,75,63
+Jawanan,Redguard,Male,4,72,65,58
+Styrr,Elder,Male,4,75,50,70
+Ahtar,Redguard,Male,10,155.3,50,79.7
+Jala,Nord,Female,4,75,60,60
+Blaise,Breton,Male,1,50,0,50
+Katla,Nord,Female,4,75,60,60
+Knud,Nord,Male,1,50,0,50
+Snilling,Nord,Male,4,75,60,60
+Deeja,Argonian,Female,10,124.7,65.3,95
+Dervenin,Wood Elf,Male,6,91,67,67
+Jaree-Ra,Argonian,Male,10,140,50,95
+Jolf,Nord,Male,6,108,50,67
+Noster Eagle-Eye,Imperial,Male,4,75,60,60
+Roggvir,Nord,Male,1,5,50,50
+Jordis the Sword-Maiden,Nord,Female,10,205.3,50,79.7
+Endarie,High Elf,Female,6,91,67,67
+Taarie,High Elf,Female,4,75,60,60
+Dorian,Breton,Male,25,250,50,210
+Eris,Nord,Female,10,140,95,50
+Sabine Nytte,Breton,Female,10,155.3,50,79.7
+Safia,Imperial,Female,20,208.65,113.65,113.65
+Xander,Imperial,Male,10,124.7,79.7,79.7
+Beirand,Nord,Male,9,122,66,82
+Heimvar,Nord,Male,4,77,56,62
+Hjorunn,Nord,Male,4,75,60,60
+Kharag gro-Shurkul,Orc,Male,7.5,103.94,71.75,71.75
+Thoron,Breton,Male,26,645.68,626.36,100
+Fridrika,Nord,Female,6,91,67,67
+Geimund,Nord,Male,6,50,50,50
+Horm,Nord,Male,4,75,60,60
+Thaer,Nord,Male,6,108,50,67
+Freir,Nord,Female,6,92,50,83
+Rorlund,Nord,Male,4,75,50,70
+Silana Petreia,Imperial,Female,4,75,50,70
+Belrand,Nord,Male,10,174.7,129.7,129.7
+Corpulus Vinius,Imperial,Male,6,91,67,67
+Gulum-Ei,Argonian,Male,10,124.7,79.7,79.7
+Lisette,Breton,Female,4,73,63,59
+Minette Vinius,Nord,Female,1,50,0,50
+Sorex Vinius,Imperial,Male,4,75,60,60
+Alexia Vici,Imperial,Female,4,75,60,60
+Aquillius Aeresius,Imperial,Male,1,1,50,50
+Vittoria Vici,Imperial,Female,4,2,60,60
+Neloth,Dark Elf,Male,25,596,426.5,50
+Talvas Fathryon,Dark Elf,Male,25,250,310,50
+Elynea Mothren,Dark Elf,Female,11,133,83,84
+Ulves Romoran,Dark Elf,Male,5,83,63,64
+Varona Nelas,Dark Elf,Female,8,108,73,74
+Amren,Redguard,Male,4,85,50,60
+Braith,Redguard,Female,4,65,0,80
+Saffir,Redguard,Female,4,75,60,60
+Arcadia,Imperial,Female,4,75,60,60
+Hulda,Nord,Female,4,75,60,60
+Mikael,Nord,Male,10,124.7,79.7,79.7
+Saadia,Redguard,Female,4,75,60,60
+Sinmir,Nord,Male,4,74,50,71
+Gwendolyn,Nord,Female,4,75,60,60
+Brenuin,Redguard,Male,4,75,60,60
+Lucia,Imperial,Female,1,50,0,50
+Belethor,Breton,Male,4,75,60,60
+Sigurd,Nord,Male,4,75,60,60
+Lydia,Nord,Female,10,205.3,50,79.7
+Carlotta Valentia,Imperial,Female,4,75,60,60
+Mila Valentia,Imperial,Female,4,65,0,80
+Wilmuth,Nord,Male,4,75,70,50
+Balgruuf the Greater,Nord,Male,15,212.75,50,96.5
+Dagny,Nord,Female,1,50,0,50
+Farengar Secret-Fire,Nord,Male,10,125,110,50
+Fianna,Breton,Female,4,75,60,60
+Frothar,Nord,Male,1,50,0,50
+Gerda,Nord,Female,4,75,60,60
+Hjornskar Head-Smasher,Nord,Male,2.5,62,50,60.8
+Hrongar,Nord,Male,4,85,50,60
+Irileth,Dark Elf,Female,10,108.96000000000001,73.76,73.76
+Legate Quentin Cipius,Imperial,Male,2.5,62,50,60.8
+Nelkir,Nord,Male,4,65,0,80
+Proventus Avenicci,Imperial,Male,4,75,60,60
+Ahlam,Redguard,Female,4,75,50,70
+Anoriath,Wood Elf,Male,6,91,67,67
+Elrindir,Wood Elf,Male,10,117.5,95,72.5
+Jenassa,Dark Elf,Female,10,190,50,95
+Nazeem,Redguard,Male,4,75,60,60
+Commander Caius,Imperial,Male,10,122,50,113
+Andurs,Nord,Male,4,75,50,70
+Heimskr,Nord,Male,4,75,50,70
+Eimar,Nord,Male,4,85,50,60
+Mallus Maccius,Imperial,Male,4,75,60,60
+Sabjorn,Nord,Male,4,75,60,60
+Avulstein Gray-Mane,Nord,Male,11,213.92000000000002,50,82.93
+Eorlund Gray-Mane,Nord,Male,10,131,86,68
+Fralia Gray-Mane,Elder,Female,4,75,60,60
+Olfina Gray-Mane,Nord,Female,4,75,60,60
+Alfhild Battle-Born,Nord,Female,4,75,60,60
+Bergritte Battle-Born,Elder,Female,6,108,50,67
+Idolaf Battle-Born,Nord,Male,4,85,50,60
+Jon Battle-Born,Nord,Male,4,75,60,60
+Lars Battle-Born,Nord,Male,4,75,10,60
+Olfrid Battle-Born,Nord,Male,4,85,50,60
+Aela the Huntress,Nord,Female,10,124.7,50,110.30000000000001
+Athis,Dark Elf,Male,10,155.3,50,79.7
+Brill,Nord,Male,4,75,60,60
+Farkas,Nord,Male,10,190,50,145
+Kodlak Whitemane,Nord,Male,11,166.48000000000002,50,83.67
+Njada Stonearm,Nord,Female,10,131,86,68
+Ria,Imperial,Female,10,155.3,50,79.7
+Skjor,Nord,Male,10,155.3,50,79.7
+Tilma the Haggard,Elder,Female,4,75,60,60
+Torvar,Nord,Male,10,155.3,50,79.7
+Vignar Gray-Mane,Elder,Male,4,85,50,60
+Vilkas,Nord,Male,10,155.3,50,79.7
+Olava the Feeble,Elder,Female,4,75,60,60
+Gloth,Nord,Male,4,75,60,60
+Nimriel,Wood Elf,Female,4,75,60,60
+Severio Pelagia,Imperial,Male,4,75,60,60
+Acolyte Jenssen,Nord,Male,4,75,50,70
+Danica Pure-Spring,Nord,Female,6,92,50,83
+Maurice Jondrelle,Breton,Male,8,128.5,82,82
+Uthgerd the Unbroken,Nord,Female,10,155.3,50,79.7
+Adrianne Avenicci,Imperial,Female,6,95,60,70
+Ulfberth War-Bear,Nord,Male,4,77,56,62
+Bjorlam,Nord,Male,6,108,50,67
+Jervar,Nord,Male,4,85,50,60
+Lillith Maiden-Loom,Elder,Female,4,75,60,60
+Skulvar Sable-Hilt,Nord,Male,4,85,50,60
+Ysolda,Nord,Female,4,75,60,60
+Aventus Aretino,Nord,Male,1,50,0,50
+Neetrenaza,Argonian,Male,4,75,60,60
+Scouts-Many-Marshes,Argonian,Male,4,77,62,56
+Shahvee,Argonian,Female,4,75,60,60
+Stands-In-Shallows,Argonian,Male,4,80,50,65
+Aval Atheron,Dark Elf,Male,4,75,60,60
+Faryl Atheron,Dark Elf,Male,4,75,60,60
+Suvaris Atheron,Dark Elf,Female,4,75,60,60
+Belyn Hlaalu,Dark Elf,Male,4,75,60,60
+Hermir Strong-Heart,Nord,Female,4,77,56,62
+Oengul War-Anvil,Nord,Male,4,77,56,62
+Bolfrida Brandy-Mug,Nord,Female,4,75,60,60
+Brunwulf Free-Winter,Nord,Male,4,85,50,60
+Calixto Corrium,Imperial,Male,8,120,50,85
+Adonato Leotelli,Imperial,Male,4,73,63,59
+Captain Lonely-Gale,Nord,Male,10,155,50,80
+Elda Early-Dawn,Nord,Female,4,75,60,60
+Luaffyn,Dark Elf,Female,4,80,50,65
+Nils,Elder,Male,4,75,60,60
+Rolff Stone-Fist,Nord,Male,4,85,50,60
+Stenvar,Nord,Male,10,205.3,50,79.7
+Susanna the Wicked,Nord,Female,4,80,50,65
+Adelaisa Vendicci,Imperial,Female,9,170.5,98.5,98.5
+Orthus Endario,Imperial,Male,4,75,60,60
+Calder,Nord,Male,10,205.3,50,79.7
+Helgird,Elder,Female,4,75,50,70
+Adisla,Nord,Female,4,75,60,60
+Tulvur,Nord,Male,4,75,60,60
+Tiber,Animals,Indeterminate,2,21,0,24
+Ysgramor,Animals,Indeterminate,2,21,0,24
+Grimvar Cruel-Sea,Nord,Male,4,65,0,80
+Hillevi Cruel-Sea,Nord,Female,4,75,60,60
+Idesa Sadri,Dark Elf,Female,4,75,60,60
+Torsten Cruel-Sea,Nord,Male,4,75,60,60
+Nilsine Shatter-Shield,Nord,Female,4,75,60,60
+Torbjorn Shatter-Shield,Nord,Male,4,85,50,60
+Tova Shatter-Shield,Nord,Female,4,75,60,60
+Ambarys Rendar,Dark Elf,Male,4,75,60,60
+Brelas,Wood Elf,Female,4,75,60,60
+Malborn,Wood Elf,Male,5,83.6,63.6,63.6
+Malthyr Elenil,Dark Elf,Male,4,75,60,60
+Niranye,High Elf,Female,10,83.6,50,76.4
+Dalan Merchad,Breton,Male,4,85,50,60
+Kjar,Nord,Male,4,80,50,65
+Voldsea Giryon,Dark Elf,Female,4,80,50,65
+Gjalund Salt-Sage (Skyrim),Nord,Male,1,50,50,50
+Lygrleid (Skyrim),Nord,Male,1,50,50,50
+Sogrlaf (Skyrim),Nord,Male,1,50,50,50
+Angrenor Once-Honored,Nord,Male,4,75,60,60
+Gort,Nord,Male,6,108,50,67
+J'datharr,Khajiit,Male,10,124.7,65.3,95
+Silda the Unseen,Nord,Female,4,75,50,70
+Sofie,Nord,Female,1,50,0,50
+Jorleif,Nord,Male,1,50,50,50
+Sifnar Ironkettle,Elder,Male,10,131.84000000000003,50,73.76
+Ulfric Stormcloak,Nord,Male,12,178.79999999999998,50,86.8
+Wuunferth the Unliving,Elder,Male,15,160,130,70
+Yrsarald Thrice-Pierced,Nord,Male,2.5,62,50,60.8
+Revyn Sadri,Dark Elf,Male,4,85,50,60
+Jora,Nord,Female,4,75,50,70
+Lortheim,Nord,Male,4,75,50,70
+Viola Giordano,Imperial,Female,4,75,60,60
+Nurelion,High Elf,Male,1,50,50,50
+Quintus Navale,Imperial,Male,4,75,65,55
+Alfarinn,Nord,Male,6,108,50,67
+Arivanya,High Elf,Female,4,73,63,59
+Ulundil,High Elf,Male,4,80,50,65
+Birna,Nord,Female,4,75,60,60
+Ranmir,Nord,Male,4,75,60,60
+Ancano,High Elf,Male,15,124.7,110.30000000000001,50
+Gelebros,Wood Elf,Male,4,75,65,55
+Quaranir,High Elf,Male,4,75,65,55
+Savos Aren,Dark Elf,Male,15,245.68,326.36,150
+Tandil,High Elf,Male,4,75,65,55
+Urag gro-Shub,Orc,Male,10,175,130,80
+Arniel Gane,Breton,Male,30,392,343,50
+Brelyna Maryon,Dark Elf,Female,10,124.7,95,65.3
+Enthir,Wood Elf,Male,10,124.7,145,65.3
+J'zargo,Khajiit,Male,10,124.7,95,65.3
+Mirabelle Ervine,Breton,Female,10,224.7,310.3,50
+Nirya,High Elf,Female,4,75,65,55
+Onmund,Nord,Male,10,124.7,195,65.3
+Tolfdir,Elder,Male,10,324.7,279.7,79.7
+Colette Marence,Breton,Female,10,174.7,195,65.3
+Drevis Neloren,Dark Elf,Male,10,124.7,95,65.3
+Faralda,High Elf,Female,15,240,295,50
+Phinis Gestor,Breton,Male,10,124.7,110.30000000000001,50
+Sergius Turrianus,Imperial,Male,4,75,60,60
+Dagur,Nord,Male,4,75,60,60
+Eirid,Nord,Female,4,65,0,80
+Haran,Nord,Female,4,75,60,60
+Nelacar,High Elf,Male,6,92,75,58
+Assur,Nord,Male,4,65,0,80
+Kai Wet-Pommel,Nord,Male,2.5,62,50,60.8
+Korir,Nord,Male,4,75,60,60
+Malur Seloth,Dark Elf,Male,4,80,65,50
+Thaena,Nord,Female,4,75,60,60
+Kraldar,Nord,Male,4,75,60,60
+Thonjolf,Nord,Male,4,75,60,60
+Augur of Dunlain,Breton,Male,1,50,50,50
+Velehk Sain,Dremora,Male,4,85,50,60
+Azzada Lylvieve,Redguard,Male,4,75,60,60
+Clinton Lylvieve,Breton,Male,4,65,0,80
+Julienne Lylvieve,Breton,Female,4,85,50,60
+Michel Lylvieve,Breton,Female,4,75,60,60
+Aldepius,Imperial,Male,20,372,50,288
+Faida,Nord,Female,4,75,60,60
+Varnius Junius,Imperial,Male,4,75,60,60
+Horgeir,Nord,Male,4,75,60,60
+Lodvar,Nord,Male,4,75,60,60
+Olda,Nord,Female,4,75,60,60
+Commander Maro,Imperial,Male,10,155.3,50,79.7
+Gaius Maro,Imperial,Male,10,255.3,50,79.7
+Penitus Oculatus Agent,Imperial,Male,1,50,50,50
+Gunnar Stone-Eye,Elder,Male,1,50,50,50
+Haming,Nord,Male,1,50,0,50
+Ingrid,Nord,Female,4,75,60,60
+Matlara,Nord,Female,4,85,50,60
+Torolf,Nord,Male,4,75,60,60
+Vilod,Nord,Male,4,85,50,60
+Elenwen,High Elf,Female,30,292,195,98
+Hadvar,Nord,Male,10,230.3,50,79.7
+Headsman,Imperial,Male,5,96,50,64
+Imperial Captain,Imperial,Female,1,50,50,50
+Priestess of Arkay,Imperial,Female,1,50,50,50
+Lokir,Nord,Male,1,25,50,50
+Ralof,Nord,Male,10,230.3,50,79.7
+Boti,Nord,Female,6,91,67,67
+Fastred,Nord,Female,6,91,67,67
+Jofthor,Nord,Male,6,91,67,67
+Klimmek,Nord,Male,6,91,67,67
+Bassianus Axius,Nord,Male,6,91,67,67
+Gwilin,Wood Elf,Male,8,108,73,74
+Lynly Star-Sung,Nord,Female,6,91,67,67
+Temba Wide-Arm,Nord,Female,8,108,73,74
+Wilhelm,Nord,Male,10,125,80,80
+Barknar,Nord,Male,1,50,50,50
+Ivarstead Guard,Nord,Radiant,20,172,50,113
+Narfi,Nord,Male,4,75,60,60
+Enmon,Breton,Male,6,89.9,66.15,66.15
+Mena,Breton,Female,6,91,67,67
+Ainethach,Breton,Male,6,91,67,67
+Belchimac,Breton,Male,6,91,67,67
+Lash gra-Dushnikh,Orc,Female,6,91,67,67
+Ragnar,Nord,Male,6,91,67,67
+Atar,Nord,Male,12.5,184.32,50,88.64
+Alvor,Nord,Male,10,131,68,86
+Dorthe,Nord,Female,1,50,0,50
+Sigrid,Nord,Female,4,77,56,62
+Faendal,Wood Elf,Male,10,124.7,50,110.30000000000001
+Frodnar,Nord,Male,1,50,0,50
+Gerdur,Nord,Female,9,116,77,77
+Hod,Nord,Male,8,108,73,74
+Stump,Animals,Indeterminate,2,21,0,24
+Camilla Valerius,Imperial,Female,4,75,60,60
+Lucan Valerius,Imperial,Male,4,75,60,60
+Delphine,Breton,Female,10,190,95,100
+Embry,Nord,Male,4,75,60,60
+Orgnar,Nord,Male,4,75,60,60
+Hilde,Elder,Female,9,116.75,76.7,76.7
+Sven,Nord,Male,7.5,103.94,71.75,71.75
+Ennis,Redguard,Male,4,75,60,60
+Reldith,High Elf,Female,4,75,60,60
+Erik the Slayer,Nord,Male,10,255.3,50,79.7
+Mralki,Nord,Male,4,75,60,60
+Britte,Nord,Female,4,65,0,80
+Lemkil,Nord,Male,4,75,60,60
+Sissel,Nord,Female,4,65,0,80
+Jouane Manette,Elder,Male,4,75,70,50
+Rorik,Nord,Male,4,85,50,60
+Filnjar,Nord,Male,8,113,64,78
+Grogmar gro-Burzag,Orc,Male,8,108,73,74
+Odfel,Nord,Male,6,91,67,67
+Sylgja,Nord,Female,6,91,67,67
+Shor's Stone Guard,Nord,Radiant,20,172,50,113
+Baldor Iron-Shaper,Nord,Male,1,50,50,50
+Deor Woodcutter,Nord,Male,1,50,50,50
+Yrsa,Nord,Female,1,50,50,50
+Edla,Nord,Female,1,50,50,50
+Nikulas,Nord,Male,1,50,50,50
+Fanari Strong-Voice,Nord,Female,1,50,50,50
+Tharstan,Elder,Male,1,50,50,50
+Morwen,Nord,Female,1,50,50,50
+Aeta,Nord,Female,1,50,0,50
+Finna,Nord,Female,1,50,50,50
+Oslaf,Nord,Male,1,50,50,50
+Frea,Nord,Female,20,795,182.5,265
+Storn Crag-Strider,Elder,Male,10,131,104,50
+Wulf Wild-Blood,Nord,Male,1,50,50,50
+Chief Burguk,Orc,Male,15,213,50,147
+Arob,Orc,Female,6,108,67,100
+Gharol,Orc,Female,6,95,70,110
+Ghorbash the Iron Hand,Orc,Male,10,140,50,145
+Murbul,Orc,Female,10,125,110,50
+Nagrub,Orc,Male,6,100,50,125
+Shel,Orc,Female,6,108,67,100
+Dulug,Orc,Female,6,108,67,100
+Ghak,Orc,Female,6,108,67,100
+Mahk,Orc,Male,6,108,67,100
+Oglub,Orc,Male,6,108,67,100
+Umurn,Orc,Male,6,108,67,100
+Chief Yamarz,Orc,Male,10,1155.3,79.7,50
+Atub,Orc,Female,10,124.7,145,65.3
+Garakh,Orc,Female,6,95,60,70
+Gularzob,Orc,Male,6,108,67,50
+Lob,Orc,Male,10,140,50,145
+Ogol,Orc,Male,10,155.3,79.7,100
+Ugor,Orc,Female,10,140,50,95
+Chief Larak,Orc,Male,15,200,90,120
+Bagrak,Orc,Female,6,108,67,100
+Borgakh the Steel Heart,Orc,Female,10,155.3,79.7,100
+Sharamph,Orc,Female,10,125,160,50
+Shuftharz,Orc,Female,6,95,60,120
+Ghamorz,Orc,Male,6,91,67,117
+Gul,Orc,Female,6,91,67,117
+Olur,Orc,Male,6,100,50,125
+Chief Mauhulakh,Orc,Male,15,213,97,100
+Bolar,Orc,Female,10,125,160,50
+Dushnamub,Orc,Male,6,108,67,100
+Urog,Orc,Female,6,100,50,125
+Yatul,Orc,Female,6,100,50,125
+Bor,Orc,Female,6,91,67,117
+Gadba gro-Largash,Orc,Male,6,108,50,117
+Mogdurz,Orc,Female,6,91,67,117
+Mul gro-Largash,Orc,Male,6,108,50,117
+Legate Constantius Tituleius,Imperial,Male,2.5,62,50,60.8
+Legate Fasendil,High Elf,Male,2.5,62,50,60.8
+Legate Hrollod,Nord,Male,2.5,62,50,60.8
+Legate Sevan Telendas,Dark Elf,Male,2.5,62,50,60.8
+Arrald Frozen-Heart,Nord,Male,2.5,62,50,60.8
+Gonnar Oath-Giver,Nord,Male,2.5,62,50,60.8
+Istar Cairn-Breaker,Nord,Male,2.5,62,50,60.8
+Kottir Red-Shoal,Nord,Male,2.5,62,50,60.8
+Thorygg Sun-Killer,Nord,Male,2.5,62,50,60.8
+General Falx Carius,Imperial,Male,25,287.75,50,146.5
+Ildari Sarothril,Dark Elf,Female,13,587.5,420,50
+Niyya,Redguard,Female,4,75,65,55
+Derkeethus,Argonian,Male,10,140,50,95
+Hrefna,Nord,Female,4,65,0,80
+Sondas Drenim,Dark Elf,Male,4,75,60,60
+Tormir,Nord,Female,4,80,50,65
+Annekke Crag-Jumper,Nord,Female,10,140,50,95
+Verner Rock-Chucker,Nord,Male,4,85,50,60
+Stormcloak Guard,Nord,Radiant,20,252,50,183
+Agmaer,Nord,Male,10,149,50,86
+Beleval,Wood Elf,Female,10,149,50,86
+Celann,Breton,Male,10,205.3,50,79.7
+Durak,Orc,Male,10,190,50,95
+Florentius Baenius,Imperial,Male,10,124.7,50,110.30000000000001
+Gunmar,Nord,Male,15,190.09,90.03999999999999,70.02
+Ingjard,Nord,Female,10,155.3,50,79.7
+Isran,Redguard,Male,15,250.1,50,100.05
+Mogrul,Orc,Male,10,149,50,86
+Sorine Jurard,Breton,Female,10,124.7,50,110.30000000000001
+Bran,Animals,Indeterminate,10,190,0,145
+Sceolang,Animals,Indeterminate,10,190,0,145
+Dexion Evicus,Imperial,Male,11,233.71999999999997,83.67,133.67000000000002
+Serana,Nord,Female,12,181,86,68
+Vigilant Tolan,Nord,Male,15,165,90.3,79.7
+Dravynea the Stoneweaver,Dark Elf,Female,4,75,70,50
+Iddra,Nord,Female,4,75,60,60
+Kjeld,Nord,Male,4,75,60,60
+Kjeld the Younger,Nord,Male,4,85,50,60
+Ganna Uriel,Imperial,Female,1,50,50,50
+Gemma Uriel,Imperial,Female,4,75,60,60
+Klija Wolf-Claw,Nord,Female,20,142,50,130.5
+Roggi Knot-Beard,Nord,Male,7.5,103.94,71.75,71.75
+Pactur,Nord,Male,4,75,60,60
+Sirgar,Nord,Male,4,75,60,60
+Sorli the Builder,Nord,Female,4,75,60,60
+Gestur Rockbreaker,Nord,Male,4,75,60,60
+Hjaalmarch Guard,Nord,Male,20,172,50,113
+Jesper,Nord,Male,4,75,60,60
+Swanhvir,Nord,Female,4,75,60,60
+Teeba-Ei,Argonian,Male,4,75,60,60
+Bujold the Unworthy,Nord,Female,10,424,50,186
+Elmus,Nord,Male,10,424,50,186
+Halbarn Iron-Fur,Nord,Male,10,424,50,186
+Herkja,Nord,Female,1,50,50,50
+Hilund,Nord,Female,10,424,50,186
+Kuvar,Nord,Male,10,390,50,220
+Sirkjorg,Nord,Male,1,50,50,50
+Feran Sadri,Dark Elf,Male,10,131,104,50
+Fura Bloodmouth,Nord,Female,10,155.3,50,79.7
+Garan Marethi,Dark Elf,Male,10,124.7,110.30000000000001,50
+Hestla,Nord,Female,10,131,86,68
+Lord Harkon,Nord,Male,12,349.36,194.16,72.08
+Modhna,Breton,Female,10,155.3,50,79.7
+Namasur,Redguard,Male,10,124.7,110.30000000000001,50
+Orthjolf,Nord,Male,10,149,50,86
+Rargal Thrallmaster,Nord,Male,10,131,86,68
+Ronthil,Wood Elf,Male,10,121.10000000000001,88.69999999999999,76.1
+Salonia Caelia,Imperial,Female,10,231,136,68
+Stalf,Nord,Male,10,231,154,50
+Vingalmo,High Elf,Male,10,131,104,50
+CuSith,Animals,Indeterminate,5,121,0,114
+Garmr,Animals,Indeterminate,5,121,0,114
+Watchman,Elder,Male,1,50,50,50
+Vampire Cattle,Nord,Male,1,50,50,50
+Aeri,Nord,Female,6,91,67,67
+Ennodius Papius,Imperial,Male,6,91,67,67
+Kodrir,Nord,Male,6,91,67,67
+Leifur,Nord,Male,6,91,67,67
+Froki Whetted-Blade,Elder,Male,10,140,50,95
+Hern,Nord,Male,10,225,80,80
+Hert,Nord,Female,10,125,80,80
+Keeper Carcette,Breton,Female,15,165,90.3,79.7
+Gralnach,Nord,Male,1,50,0,50
+Grosta,Nord,Female,8,108,73,74
+Rift Guard,Nord,Radiant,20,172,50,113
+Markus,Nord,Male,6,108,50,67
+Oriella,Nord,Female,7.5,101,77.5,69
+Arngeir,Elder,Male,150,1292,50,1043
+Borri,Elder,Male,100,875,50,710
+Einarth,Elder,Male,90,792,50,643
+Wulfgar,Elder,Male,100,875,50,710
+Gunjar,Nord,Male,6,108,50,67
+Llewellyn the Nightingale,Nord,Male,7.5,101,77.5,69
+Curwe,High Elf,Female,6,91,67,67
+Vantus Loreius,Imperial,Male,6,91,67,67
+Gilfre,Imperial,Female,4,75,60,60
+Balagog gro-Nolob,Orc,Male,6,1,50,75
+Fultheim,Nord,Male,4,85,50,60
+Hadring,Nord,Male,4,85,50,60
+Eydis,Nord,Female,6,91,67,67
+Ghost of Old Hroldan,Nord,Male,25,330,50,130
+Leontius Salvius,Imperial,Male,6,91,67,67
+Skuli,Nord,Male,4,65,0,80
+Aduri Sarethi,Dark Elf,Female,6,91,67,67
+Avrusa Sarethi,Dark Elf,Female,10,124.7,79.7,79.7
+Imperial Soldier,Nord,Male,1,50,50,50
+Perth,Breton,Male,6,91,67,67
+Tuthul,Breton,Male,6,91,67,67
+Gissur,Nord,Male,4,75,60,60
+Razelan,Redguard,Male,4,75,60,60
+Rulindil,High Elf,Male,10,124.7,95,65.3
+Tsavani,Khajiit,Female,4,75,60,60
+Angvid,Nord,Male,4,85,50,60
+Badnir,Nord,Male,1,50,50,50
+Gunding,Nord,Male,4,85,50,60
+Thorgar,Nord,Male,4,85,50,60
+Engar,Nord,Male,6,108,50,67
+Sonir,Nord,Female,7.5,101,77.5,69
+Adventurer,Radiant,Male,13,262,25,158
+Garuk Windrime,Nord,Male,13,262,25,158
+Haknir Death-Brand (ghost),Nord,Male,40,1171.5,50,276
+Thalin Ebonhand,Nord,Male,13,238,197,100
+Ralis Sedarys,Dark Elf,Male,15,378.5,196,123
+Merilar Rendas,Dark Elf,Female,10,383.5,250,116.5
+Benkum,Nord,Male,1,50,50,50
+Hjalfar,Nord,Male,8,127,50,78
+Liesl,Nord,Female,1,50,50,50
+Palevius Lex,Elder,Male,1,50,50,50
+Hermaeus Mora,Orc,Male,1,50,50,50
+Miraak,Nord,Male,35,983.5,479,402.5
+Ahjisi,Khajiit,Female,13,262,25,158
+Eriana,Redguard,Female,13,262,25,158
+Heratar,Nord,Male,13,262,25,158
+J'Kier,Khajiit,Male,1,1,50,50
+Ra'kheran,Khajiit,Male,13,262,25,158
+Rissing,Nord,Male,13,262,25,158
+Torkild the Fearsome,Nord,Male,13,262,25,158
+Tsrasuna,Khajiit,Female,13,262,25,158
+Yar gro-Gatuk,Orc,Male,13,262,25,158
+Alvide,Nord,Female,1,50,50,50
+Jayri,Redguard,Female,1,50,50,50
+Ollrod,Nord,Male,10,149,50,86
+Sern,Elder,Male,1,50,50,50
+Tilde,Nord,Female,10,149,50,86
+Vori,Nord,Female,10,149,50,86
+Arch-Curate Vyrthur,Snow Elf,Male,15,410.4,205.2,50
+Prelate Athring,Snow Elf,Male,10,149,50,86
+Prelate Celegriath,Snow Elf,Male,10,149,50,86
+Prelate Edhelbor,Snow Elf,Male,10,149,50,86
+Prelate Nirilor,Snow Elf,Male,10,149,50,86
+Prelate Sidanyis,Snow Elf,Male,10,149,50,86
+Akar,Nord,Male,10,340,50,195
+Hjordis,Nord,Female,10,240,50,145
+Majni,Nord,Male,10,340,50,195
+Rakel,Nord,Female,10,240,50,145
+Captain Avidius,Redguard,Male,12,166.5,86.5,87
+Lieutenant Salvarus,Imperial,Male,12,166.5,86.5,87
+Sailor,Nord,Male,1,10,25,25
+Ancarion,High Elf,Male,23,448,282,50
+Falas Selvayn,Dark Elf,Male,10,490,50,210
+Erlendr,Nord,Male,30,388,50,147
+Felldir the Old,Nord,Male,30,388,50,147
+Gormlaith Golden-Hilt,Nord,Female,30,388,50,147
+Hakon One-Eye,Nord,Male,30,388,50,147
+Hunroor,Nord,Male,30,388,50,147
+Jurgen Windcaller,Nord,Male,30,388,50,147
+Nikulas,Nord,Male,30,388,50,147
+Olaf One-Eye,Nord,Male,30,388,50,147
+Ulfgar the Unending,Nord,Male,30,388,50,147
+Ysgramor,Nord,Male,50,458,213,214
+High King Torygg,Nord,Male,1,50,50,50
+Stormcloak Soldier,Nord,Male,15,106.25,67.5,92.5
+Svaknir,Nord,Male,7.5,126.56,50,71.75
+Tsun,Nord,Male,12,378.79999999999995,50,86.8
+Ri'saad,Khajiit,Male,5,150,50,50
+Khayla,Khajiit,Female,10,50,50,50
+Atahbah,Khajiit,Female,5,83,63,64
+Ma'randru-jo,Khajiit,Male,4,75,70,50
+Ahkari,Khajiit,Female,5,83,63,64
+Dro'marash,Khajiit,Male,10,155,50,80
+Kharjo,Khajiit,Male,10,155.3,50,79.7
+Zaynabi,Khajiit,Female,5,50,50,50
+Ma'dran,Khajiit,Male,4,75,60,60
+Ma'jhad,Khajiit,Male,5,50,50,50
+Ra'zhinda,Khajiit,Female,10,50,50,50
+Agent Lorcalin,High Elf,Male,32,554,386,50
+Agrane Peryval,Breton,Male,4,85,100,60
+Alain Dufont,Breton,Male,4,75,60,60
+Alea Quintus,Nord,Female,1,1,50,50
+Amaund Motierre,Breton,Male,4,73,63,59
+Angi,Nord,Female,10,150,50,50
+Anise,Elder,Female,18.5,258.5,241.5,25
+Anska,Nord,Female,13,238,197,100
+Aranea Ienith,Dark Elf,Female,10,192,213,50
+Aringoth,High Elf,Male,10,140,50,95
+Arondil,High Elf,Male,23.5,337.5,325,25
+Arvel the Swift,Dark Elf,Male,1,25,50,50
+Asta,Nord,Female,5,79,25,41
+Bashnag,Orc,Male,23.5,312.5,300,37.5
+Beem-Ja,Argonian,Male,12,142,205.2,58.4
+Brandish,Breton,Male,13,238,197,100
+The Caller,High Elf,Female,23.5,337.5,325,37.5
+Captain Hargar,Nord,Male,13,262,25,158
+Captain Valmir (Imperial),High Elf,Male,4,127,56,62
+Champion of Boethiah,Dark Elf,Male,29,363.5,162,153.5
+Christer,Nord,Male,1,50,50,50
+Deekus,Argonian,Male,4,75,55,65
+Drelas,Dark Elf,Male,23.5,312.5,300,37.5
+Ebony Warrior,Redguard,Male,80,2071,250,364
+Eisa Blackthorn,Nord,Female,17,326,25,176.5
+Estormo,High Elf,Male,10,124.7,210.3,50
+Fjola,Nord,Female,11,93.33333333333333,50,41.666666666666664
+Fultheim the Fearless,Nord,Male,1,1,50,50
+Gavros Plinius,Imperial,Male,4,75,65,55
+Geirlund,Nord,Male,1,50,50,50
+Ghunzul,Orc,Male,17,326,25,176.5
+Golldir,Nord,Male,10,205.3,50,109.7
+Hajvarr Iron-Hand,Nord,Male,17,326,32.5,176.5
+Haldyn,Redguard,Male,23.5,337.5,300,37.5
+Hunter,Radiant,Radiant,10,79,25,41
+Illia,Imperial,Female,10,174.7,110.30000000000001,50
+J'darr,Khajiit,Male,13,262,25,158
+Jiub,Dark Elf,Male,4,75,60,60
+Karita,Nord,Female,7,120,50,70
+Katria,Nord,Female,10,203.94,60.44,83.06
+Kesh the Clean,Khajiit,Male,12,138,85.2,85.2
+Knight-Paladin Gelebor,Snow Elf,Male,12.5,176.95999999999998,50,96
+Kornalus,High Elf,Male,23.5,337.5,300,37.5
+Krev the Skinner,Radiant,Radiant,17,326,32.5,176.5
+Kyr,Nord,Male,1,1,25,90
+Larina,Imperial,Female,1,50,50,50
+Logrolf the Willful,Elder,Male,10,124.7,50,110.30000000000001
+Lokil,Nord,Male,39.5,739,354,252
+Lu'ah Al-Skaven,Redguard,Female,10,224.7,210.3,25
+Ma'zaka,Khajiit,Male,4,75,60,60
+Madman,Nord,Male,5,50,50,50
+Malkoran,Breton,Male,23.5,337.5,325,25
+Malkus,Orc,Male,10,131,104,50
+Maluril,Dark Elf,Male,1,50,50,50
+Malyn Varen,Dark Elf,Male,10,149.7,145,40.3
+Medresi Dran,Dark Elf,Female,1,50,50,50
+Minorne,High Elf,Female,23.5,337.5,325,25
+Moric Sidrey,Breton,Male,7,104,74,112
+Morven Stroud,Breton,Male,1,50,50,50
+Movarth Piquine,Radiant,Male,33.5,610,317.5,240
+Naris the Wicked,High Elf,Male,18.5,258.5,241.5,25
+Nerien,High Elf,Male,4,75,65,55
+Nimphaneth,Wood Elf,Female,1,50,100,25
+Orchendor,Wood Elf,Male,12,388,335.2,110.2
+Orthorn,High Elf,Male,10,174.7,160.3,50
+Paratus Decimius,Imperial,Male,10,224.7,260.3,50
+Ra'jirr,Khajiit,Male,1,1,25,90
+Revus Sarvani,Dark Elf,Male,13,262,25,158
+Rexus,Imperial,Male,4,85,50,60
+Rigel Strong-Arm,Nord,Female,17,326,25,176.5
+Rhorlak,Nord,Male,1,35,25,70
+Salma,Redguard,Female,10,179,25,86
+Sanyon,High Elf,Male,1,50,100,25
+Selveni Nethri,Dark Elf,Female,23.5,312.5,300,37.5
+Septimus Signus,Elder,Male,1,50,50,50
+Sild the Warlock,Nord,Male,23.5,337.5,300,37.5
+Silvia,Elder,Female,29,362,218,50
+Sond,Nord,Male,5,79,25,41
+Stalleo,Nord,Male,13,238,197,100
+Sulla Trebatius,Imperial,Male,10,224.7,154.7,129.7
+Telrav,Imperial,Male,13,262,25,158
+Thorald Gray-Mane,Nord,Male,7.5,109.16,63.05,76.1
+Thorek,Nord,Male,12.5,191,147.625,50
+Torkild,Nord,Male,25,740,0,370
+Ulfr the Blind,Nord,Male,13,262,25,158
+Umana,Redguard,Female,10,255.3,50,179.7
+Valerica,Nord,Female,10,231,86,68
+Vanik,Nord,Male,15,150.1,50,100.05
+Vasha,Khajiit,Male,1,1,50,50
+Venarus Vulpin,Imperial,Male,39.5,739,354,252
+Veren Duleri,Dark Elf,Male,12.5,195.68,151.36,50
+Vidrald,Nord,Male,10,155.3,50,79.7
+Vighar,Elder,Male,33.5,610,317.5,240
+Vigilant Adalvald,Nord,Male,9,130,63,77
+Volk,Nord,Male,15,190,73.5,96.5
+Wizard,Wood Elf,Male,13,238,197,100
+Wyndelius Gatharian,Dark Elf,Male,13,238,197,100
