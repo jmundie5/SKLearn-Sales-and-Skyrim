@@ -13,3 +13,5 @@ The code starts by importing necessary libraries such as numpy, pandas, matplotl
 The code then applies logistic regression and linear regression models to the processed data from the Skyrim and video game data sets. The logistic regression model predicts the Race of Skyrim non-player characters (NPCs) based on various NPC attributes. The linear regression model predicts the Level of Skyrim NPCs based on the same NPC attributes. For the video game data set, the logistic regression model predicts the game Developer, while the linear regression model predicts the Global Sales.
 
 The model performance is evaluated on both the training and testing sets of data, with the accuracy scores being displayed, along with the confusion matrix for the Skyrim logistic regression model. Finally, some data frames are printed to the console, showing some of the processed data.
+
+![SKResults](https://user-images.githubusercontent.com/81974129/229643859-386c8524-a4ae-4dbc-a597-2ebfbb25e954.PNG)
